@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod sid APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "Praneet Pardeshi - Product Owner"
     email: "praneetpardeshi@gmail.com"
