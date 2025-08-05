@@ -4,8 +4,13 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
+<<<<<<< HEAD
     name: "John Doe - Developer"
     email: "john@eazybank.com"
+=======
+    name: "Sudarshan Bhise - Developer"
+    email: "sudarshanbhise12345@gmail.com"
+>>>>>>> 59b2371c0105b2a1eaa4319d02f35324ff961885
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345

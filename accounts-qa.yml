@@ -4,8 +4,13 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
+<<<<<<< HEAD
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
+=======
+    name: "Avi Bhise - QA Lead"
+    email: "avibhise@gmail.com"
+>>>>>>> 59b2371c0105b2a1eaa4319d02f35324ff961885
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
